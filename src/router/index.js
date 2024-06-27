@@ -3,10 +3,10 @@ import HomeMain from '@/components/HomeMain.vue';
 import AboutB from '@/components/AboutB.vue';
 import HomeWork1 from '@/components/HomeWork1.vue'
 import HomeWork2 from '@/components/HomeWork2.vue'
-import HomeWork3 from '@/components/HomeWork3.vue'
-import HomeWork4 from '@/components/HomeWork4.vue'
-import HomeWork5 from '@/components/HomeWork5.vue'
-import HomeWork6 from '@/components/HomeWork6.vue'
+import HomeWork3 from '@/components/HomeWork6-27.vue'
+import HomeWork4 from '@/components/HomeWork6-27-2.vue'
+import HomeWork5 from '@/components/HomeWork6-27-3.vue'
+import HomeWork6 from '@/components/HomeWork6-27-4.vue'
 
 
 const routes = [
