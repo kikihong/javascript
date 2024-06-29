@@ -12,6 +12,8 @@
       <router-link to="HomeWork5">2024-06-27-3</router-link>
       <br/>
       <router-link to="HomeWork6">2024-06-27-4</router-link>
+      <br/>
+      <router-link to="HomeWork7">2024-06-28</router-link>
     </div>
   </template>
   
