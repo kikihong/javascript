@@ -1,11 +1,12 @@
 <template>
-  
+  <header-view></header-view>
   <router-view></router-view>
   
   
 </template>
 
 <script>
+import HeaderView from './components/HeaderView.vue'
 
 
 
@@ -13,6 +14,7 @@
 export default {
   name: 'App',
   components: {
+    HeaderView
     
     
   }
