@@ -9,6 +9,7 @@ import HomeWork5 from '@/components/HomeWork6-27-3.vue'
 import HomeWork6 from '@/components/HomeWork6-27-4.vue'
 import HomeWork7 from '@/components/HomeWork6-28-1.vue'
 import HomeWork8 from '@/components/HomeWork6-30.vue'
+import HomeWork9 from '@/components/HomeWork7-02.vue'
 
 
 const routes = [
@@ -65,6 +66,11 @@ const routes = [
     path: '/HomeWork8',
     name: 'HomeWork8',
     component: HomeWork8
+  },
+  {
+    path: '/HomeWork9',
+    name: 'HomeWork9',
+    component: HomeWork9
   }
   
     
